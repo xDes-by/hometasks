@@ -1,4 +1,3 @@
-import datetime
 import time
 
 # ======================================= task 1
@@ -46,3 +45,5 @@ def rev(x):
 
 
 print(rev(list_3))
+
+
